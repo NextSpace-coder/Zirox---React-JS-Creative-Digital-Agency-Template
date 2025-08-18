@@ -34,7 +34,7 @@ const Header = () => {
                     </li>
                     <li className="zirox-header__top-bar-left-icon-box">
                       <i className="flaticon-email-1"></i>
-                      <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a>
+                      <a href="mailto:contact@example.com">contact@example.com</a>
                     </li>
                   </ul>
                 </div>
@@ -216,7 +216,7 @@ const Header = () => {
                 <div className="zirox-header-info-box__details">
                   <span>Send email</span>
                   <h4>
-                    <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a>
+                    <a href="mailto:contact@example.com">contact@example.com</a>
                   </h4>
                 </div>
               </div>

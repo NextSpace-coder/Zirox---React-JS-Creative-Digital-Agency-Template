@@ -62,7 +62,7 @@ const Footer = () => {
                     <h3>Contact</h3>
                     <ul>
                       <li>
-                        <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a>
+                        <a href="mailto:contact@example.com">contact@example.com</a>
                       </li>
                       <li>
                         <a href="#">80 Broklyn Road Street</a>

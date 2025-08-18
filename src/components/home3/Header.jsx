@@ -44,7 +44,7 @@ const Header = () => {
                   <div className="zirox-header-info-box__details">
                     <span>Send email</span>
                     <h4>
-                      <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a>
+                      <a href="mailto:contact@example.com">contact@example.com</a>
                     </h4>
                   </div>
                 </div>
@@ -200,7 +200,7 @@ const Header = () => {
                 <div className="zirox-header-info-box__details">
                   <span>Send email</span>
                   <h4>
-                    <a href="mailto:hello@ultradevs.com">hello@ultradevs.com</a>
+                    <a href="mailto:contact@example.com">contact@example.com</a>
                   </h4>
                 </div>
               </div>
